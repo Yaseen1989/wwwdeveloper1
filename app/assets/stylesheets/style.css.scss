@@ -2,7 +2,7 @@
 html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
 
 .homepage {
-	background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), url(organic-bg.jpg) no-repeat;
+	background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), image-url("organic-bg.jpg") no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -20,7 +20,7 @@ html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{ove
 
 div#x1
 {
-    background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), url(wallpaper-bg.jpg) no-repeat;
+    background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), image-url("wallpaper-bg.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -36,7 +36,7 @@ div#x1
 }
 div#x2
 {
-    background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), url(organic-bg.jpg) no-repeat;
+    background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), image-url("organic-bg.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -52,7 +52,7 @@ div#x2
 }
 div#x3
 {
-    background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), url(monitor-bg.jpg) no-repeat;
+    background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), image-url("monitor-bg.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -68,7 +68,7 @@ div#x3
 }
 div#x4
 {
-    background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), url(monitor-aboutus.jpg) no-repeat;
+    background: linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.4)), image-url("monitor-aboutus.jpg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
